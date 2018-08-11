@@ -121,6 +121,7 @@ hi folded ctermbg=023
 "   more visible
 hi Visual ctermbg=246
 hi Search ctermbg=32
+hi Normal ctermbg=0
 
 
 "   This hilights trailing spaces (among other things) in C code
